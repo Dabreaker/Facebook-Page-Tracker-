@@ -60,9 +60,9 @@ chmod +x setup.sh
 
 
 
-2. Mining Execution
-python miner.py --url "[https://target-page.com](https://target-page.com)" --cookies "path/to/cookies.txt"
-
+###2. Mining Execution
+```python miner.py --url "[https://target-page.com](https://target-page.com)" --cookies "path/to/cookies.txt"
+```
 🏗️ SYSTEM ARCHITECTURE
 <details>
 <summary><b>View Internal Data Pipeline</b></summary>
