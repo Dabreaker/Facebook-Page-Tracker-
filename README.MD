@@ -56,6 +56,9 @@ chmod +x setup.sh
 
 # Initialize system dependencies and drivers
 ./setup.sh
+---
+
+
 
 2. Mining Execution
 python miner.py --url "[https://target-page.com](https://target-page.com)" --cookies "path/to/cookies.txt"
